@@ -1,14 +1,14 @@
 import firebase from 'firebase';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyB3bWoA4H-jpbHtxbE_cNO0AEmGJtpArxE",
-  authDomain: "mybangdims.firebaseapp.com",
-  databaseURL: "https://mybangdims.firebaseio.com",
-  projectId: "mybangdims",
-  storageBucket: "mybangdims.appspot.com",
-  messagingSenderId: "410582256217",
-  appId: "1:410582256217:web:32386a806955468f547f48",
-  measurementId: "G-RJVBC0TPRW"
+  apiKey: "AIzaSyBuXxAoTV8DDdR-31WYhynVOAB_4DHO7dg",
+  authDomain: "mybangdims-11.firebaseapp.com",
+  databaseURL: "https://mybangdims-11.firebaseio.com",
+  projectId: "mybangdims-11",
+  storageBucket: "mybangdims-11.appspot.com",
+  messagingSenderId: "765925930848",
+  appId: "1:765925930848:web:4696f3e3038bbc35d2d005",
+  measurementId: "G-RDVRC25WL3"
 });
 
 const Fire = firebase;
